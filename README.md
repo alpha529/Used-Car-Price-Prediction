@@ -16,7 +16,7 @@ Miscellaneous :Anaconda,jupyter notebook
 3.The front-end server uses the HTML template and redirects to http://127.0.0.1:5000/predict where you can predict the price.
 
 # sample output
-(https://user-images.githubusercontent.com/67899673/129490565-7c98c2c1-9648-4507-9951-c35c5aa4f147.png)
+![car price prediction](https://user-images.githubusercontent.com/67899673/129490990-9b23e058-3749-4d69-9569-e48e46905752.png)
 
 # NOTE
 I have used heroku cloud services and u can access the app https://carprediciton.herokuapp.com/predict
