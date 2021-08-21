@@ -4,16 +4,16 @@ Predicting Reselling Price
 This is a machine learning project that can be used to predict the reselling price of the cars with the help of the details of the car. This is an end to end project in python and written with the help of Flask and deployed using Heroku.
 
 # Technology stack
-programming languages & library: python,matplotlib,scikit-learn
-Web-Technologies: HTML,CSS
-Web-framework:flask 
-Miscellaneous :Anaconda,jupyter notebook
+* programming languages & library: python,matplotlib,scikit-learn
+* Web-Technologies: HTML,CSS
+* Web-framework:flask 
+* Miscellaneous :Anaconda,jupyter notebook
 
 # steps tp run the application
-0.Clone the repository
-1.Run the ipython notebook, train and download the trained model
-2.Up the backend server by navigating to flask and running app.py python file
-3.The front-end server uses the HTML template and redirects to http://127.0.0.1:5000/predict where you can predict the price.
+* Clone the repository
+* Run the ipython notebook, train and download the trained model
+* Up the backend server by navigating to flask and running app.py python file
+* The front-end server uses the HTML template and redirects to http://127.0.0.1:5000/predict where you can predict the price.
 
 # sample output
 ![car price prediction](https://user-images.githubusercontent.com/67899673/129490990-9b23e058-3749-4d69-9569-e48e46905752.png)
